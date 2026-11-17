@@ -1,12 +1,14 @@
 body {
     background: linear-gradient(to bottom, #101014, #241333);
-  color: white;
-  text-align: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
+    text-align: center;
 }
 
 a {
     text-decoration: none;
-  background-color: #7C3AED;
+  background-color: #FF0000;
   color: white;
   padding: 12px 24px;
 }
