@@ -18,6 +18,7 @@ a {
   border-radius: 12px;
   padding: 12px 24px;
   transition: all 0.3s ease;
+  display: inline-block;
 }
 
 a:hover {
