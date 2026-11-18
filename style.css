@@ -36,4 +36,5 @@ img {
     backdrop-filter: blur(10px);
     border-radius: 20px;
     padding: 20px;
+    border: 2px solid #A78BFA;
 }
