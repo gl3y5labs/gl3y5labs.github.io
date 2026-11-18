@@ -32,5 +32,8 @@ img {
 }
 
 .construction {
-    background-color: #241333;
+    background-color: rgba(124, 58, 237, 0.3);
+    backdrop-filter: blur(10px);
+    border-radius: 20px;
+    padding: 20px;
 }
