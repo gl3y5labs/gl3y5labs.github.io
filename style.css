@@ -27,11 +27,15 @@ a:hover {
 }
 
 img {
-    width: 400px;
-    height: auto;
+   width: 100%;
+   max-width: 400px;
+   height: auto;
 }
 
-.construction {
+.container {
+    width: 90%;
+    max-width: 600px;
+    box-sizing: border-box;
     background-color: rgba(124, 58, 237, 0.3);
     backdrop-filter: blur(10px);
     border-radius: 20px;
